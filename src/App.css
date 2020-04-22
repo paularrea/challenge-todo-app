@@ -23,6 +23,7 @@
   color: #61dafb;
 }
 
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -31,3 +32,26 @@
     transform: rotate(360deg);
   }
 }
+
+.description-box{
+  height: 150px !important;
+}
+
+.listTodo h4{
+  color: #006599 !important;
+}
+
+h3, h1{
+  color: #993400 !important;
+  font-weight: bolder !important;
+}
+
+.btn-Submit{
+  border-radius: 10px !important;
+  border: 2px solid #993400 !important;
+  background-color: rgba(153, 52, 0, 0.3) !important;
+  color: #993400 !important;
+  padding: 5px 35px !important;
+  font-size: 25px !important;
+}
+
